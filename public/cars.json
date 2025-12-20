@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "BMW M4",
+    "image": "/images/bmw_m4_1.png",
+    "type": "Petrol",
+    "price": 17850000,
+    "link": "https://www.bmw.in/en/all-models/m-series/bmw-4-series-m-models/bmw-m4-coupe.html#tabs-3bb6524ab9-item-38b9948aba-tab"
+  },
+  {
+    "id": 2,
+    "title": "BMW M8 Coupe",
+    "image": "/images/coupe_m8.webp",
+    "type": "Petrol",
+    "price": 23840000,
+    "link": "https://configure.bmw.in/en_IN/configure/F92/AE02/FHDJI"
+  },
+  {
+    "id": 3,
+    "title": "BMW i5",
+    "image": "/images/bmw_i5.webp",
+    "type": "Electric",
+    "price": 11950000,
+    "link": "https://www.bmw.in/en/all-models/m-series/bmw-i5-m60/bmw-i5-m60xdrive-overview.html"
+  },
+  {
+    "id": 4,
+    "title": "BMW 5 LWB",
+    "image": "/images/bmw_5_lwb.webp",
+    "type": "Petrol",
+    "price": 4380000,
+    "link": "https://configure.bmw.in/en_IN/configure/G68/27FMZK8N"
+  },
+  {
+    "id": 5,
+    "title": "BMW 3 Series",
+    "image": "/images/bmw_3_series.webp",
+    "type": "Petrol",
+    "price": 4840000,
+    "link": "https://www.bmw.in/en/all-models/3-series/bmw-3-series-long-wheelbase.html"
+  },
+  {
+    "id": 6,
+    "title": "BMW 7 Series",
+    "image": "/images/bmw_7_series.webp",
+    "type": "Petrol",
+    "price": 17900000,
+    "link": "https://www.bmw.in/en/all-models/7-series/7-series-sedan/bmw-7-series-sedan.html"
+  },
+  {
+    "id": 7,
+    "title": "BMW i7",
+    "image": "/images/bmw_i7.webp",
+    "type": "Petrol",
+    "price": 20500000,
+    "link": "https://www.bmw.in/en/all-models/bmw-i/i7/bmw-i7-sedan.html"
+  },
+  {
+    "id": 8,
+    "title": "BMW M2",
+    "image": "/images/bmw_m2.webp",
+    "type": "Petrol",
+    "price": 12000000,
+    "link": "https://configure.bmw.in/en_IN/configure/G87/22DM"
+  },
+  {
+    "id": 9,
+    "title": "BMW ix",
+    "image": "/images/bmw_ix.webp",
+    "type": "Electric",
+    "price": 11940000,
+    "link": "https://www.bmw.in/en/all-models/bmw-i/bmw-ix-new/bmw-ix.html"
+  },
+  {
+    "id": 10,
+    "title": "BMW XM",
+    "image": "/images/bmw_xm.webp",
+    "type": "Electric",
+    "price": 25000000,
+    "link": "https://www.bmw.in/en/all-models/m-series/xm/2022/bmw-xm-overview.html"
+  },
+  {
+    "id": 11,
+    "title": "BMW Z4",
+    "image": "/images/bmw_z4.webp",
+    "type": "Petrol",
+    "price": 8700000,
+    "link": "https://www.bmw.in/en/all-models/z-series/Z4/2025/bmw-z4-overview.html"
+  },
+  {
+    "id": 12,
+    "title": "BMW X5",
+    "image": "/images/bmw_x5.webp",
+    "type": "Petrol",
+    "price": 9400000,
+    "link": "https://configure.bmw.in/en_IN/configure/G05/27EUZK8Q"
+  }
+]

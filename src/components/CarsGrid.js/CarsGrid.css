@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.cars-grid {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+   font-family: "Saira", sans-serif;
+}
+
+.search-input {
+  padding: 15px;
+  width:80%;
+  border: 1px solid #765555ff;
+  font-size: 16px;
+  border-radius: 100px;
+ margin: 25px 10px;
+   
+}
+
+.clearSearch{
+  position:relative;
+  right:40px;
+  top:35px;
+  cursor:pointer;
+  color:black;
+
+
+}
+
+
+.filter-bar {
+  width:80%;
+    display:flex;
+    justify-content:right;
+}
+
+.filter-slot {
+  background-color: #2c2c2c;
+  padding: 0 25px;
+  margin: 10px;
+  border-radius: 50px;
+}
+
+.filter-dropdown {
+  padding: 8px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #333;
+}
+  
+.noResults{
+  margin:2rem 0;
+  width:90%
+}
